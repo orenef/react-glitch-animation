@@ -1,16 +1,18 @@
 {
-  "name": "react-typescript-rollup-parcel-template",
+  "name": "react-glitch-animation",
   "version": "1.0.0",
-  "description": "Base template",
+  "description": "A React component that add a glitch animation to any text.",
   "main": "build/index.js",
   "module": "build/index.es.js",
+  "keywords": ["react", "typescript", "cyber", "animation", "glitch"],
+  "homepage": "https://github.com/orenef/react-glitch-animation",
   "scripts": {
     "start": "parcel --out-dir playground-build ./src/playground/index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup --config"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "orenef",
+  "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^15.1.0",
     "@rollup/plugin-node-resolve": "^9.0.0",

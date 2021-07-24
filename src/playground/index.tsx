@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Base } from '../Base';
+import { GlitchAnimation } from '../GlitchAnimation';
 ReactDOM.render(
-  <Base />,
+  <GlitchAnimation isActive={true} animationDurationMS={5000} text="Glitch effect"/>,
   document.getElementById('root'),
 );

@@ -4567,10 +4567,6 @@ react-dom@^16.13.1:
     prop-types "^15.6.2"
     scheduler "^0.19.1"
 
-"react-hacker-text-effect@C:\\Users\\orenef\\Documents\\workspace\\react-apps\\app2\\react-hacker-text-effect-1.0.0.tgz":
-  version "1.0.0"
-  resolved "C:\\Users\\orenef\\Documents\\workspace\\react-apps\\app2\\react-hacker-text-effect-1.0.0.tgz#1e9bb28c487396457f2a803d9c2c96d416d745e8"
-
 react-is@^16.8.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
