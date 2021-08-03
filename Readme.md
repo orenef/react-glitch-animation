@@ -1,6 +1,6 @@
 # react-glitch-animation
 
-![npm](https://img.shields.io/npm/dt/react-glitch-animation) ![npm bundle size](https://img.shields.io/bundlephobia/min/react-glitch-animation) ![NPM](https://img.shields.io/npm/l/react-glitch-animation)
+![NPM](https://img.shields.io/npm/l/react-glitch-animation) ![npm](https://img.shields.io/npm/dt/react-glitch-animation) ![npm bundle size](https://img.shields.io/bundlephobia/min/react-glitch-animation) ![npm](https://img.shields.io/npm/v/react-glitch-animation) ![GitHub top language](https://img.shields.io/github/languages/top/orenef/react-glitch-animation)
 
 A React component that add a glitch animation to any text.
 
